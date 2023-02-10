@@ -1,0 +1,37 @@
+image: python:3.9-buster
+
+before_script:
+  - pip install -r requirements.txt
+  - apt-get update
+  - apt-get --yes install rsync bash
+  - 'command -v ssh-agent >/dev/null || ( apt-get update -y && apt-get install openssh-client -y )'
+  - eval $(ssh-agent -s)
+  - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add -
+  - mkdir -p ~/.ssh
+  - chmod 700 ~/.ssh
+  - echo "$SSH_KNOWN_HOSTS" >> ~/.ssh/known_hosts
+  - chmod 644 ~/.ssh/known_hosts
+
+test:
+  stage: test
+  script:
+  #- mkdocs build --strict --verbose --site-dir test
+  - mkdocs build --verbose --site-dir test
+  artifacts:
+    paths:
+    - test
+  except:
+  - master
+
+deploy:
+  stage: deploy
+  only:
+    - master
+  script:
+    - mkdocs build --site-dir public
+    - echo "build"
+    - rsync -ah public/* semillero-halley@class.redclara.net:~/lago/
+  artifacts:
+    paths:
+      - public
+    expire_in: 10 mins
