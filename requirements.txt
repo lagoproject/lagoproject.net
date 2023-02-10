@@ -26,6 +26,7 @@ mkdocs-material
 mkdocs-material-extensions>=1.1
 pygments>=2.14
 pymdown-extensions>=9.9.1
+minify
 
 # Requirements for plugins
 colorama>=0.4
