@@ -10,15 +10,21 @@ When a particle goes through a medium at such a speed, it produces a cone of lig
 
 This light was discovered by a russian physicist named Cherenkov in 1934, and is the responsible for the typical blue glow of water in nuclear reactors. It is used frequently in particle detectors, as a high energy particle going through a water volume will produce this caracteristic light.
 
+![Cherenkov effect](images/cherenkov.jpg "Cherenkov effect")
+
 ### Photomultiplier tubes
 
 Photomultiplier tubes (PMTs) are extremely sensitive light detectors, usually in ultraviolet and blue. A glass vacuum tube houses a photocathode, several dynodes, and an anode. Incident photons strike the photocathode covering the glass and electrons are produced by the photoelectric effect. High voltage between each dynode provoque an avalanche of secondary electrons, literally multiplying the signal. Typical gains of 106 mean a million electrons are detected on the anode for a single photon hitting the glass.
+
+![Photomultiplier tubes](images/phototube.jpg "Photomultiplier tubes")
 
 These detectors can therefore detect single photons, but would be destroyed if turned on in ambient light. They are usually used in light-tight environments, to detect minimum amounts of light.
 
 ### Water Cherenkov tanks
 
 Water Cherenkov tanks are detectors based on the Cherenkov effect. A simple plastic (or metal, fiberglass...) tank is filled with water and closed, in order to be light-tight. Photomultipler tubes are installed inside the detector, looking at the water volume. When a particle crosses the water volume, it will emit light in a Cherenkov cone. The light is then uniformized in the water volume by diffusion on the walls of the tank (usually covered by a highly diffusive material), and finally collected on the photomultiplier tubes.
+
+![Water Cherenkov tanks](images/wcd.jpg "Water Cherenkov tanks")
 
 #### WCD calibration
 
@@ -37,3 +43,12 @@ When a GRB occurs, a huge number of high energy photons reach the Earth's atmosp
 Most of the secondary particules of these cascades are photons (about 90%). A good property of WCD is the fact they can detect photons through their conversion in the water volume. This makes WCD good GRB detectors.
 
 What one would expect is that WCD would see an increase in the photon flux when a GRB occurs. It is not easy to detect since there is a continuous high background of particles entering the WCD, but this is the challenge LAGO will try to overcome.
+
+## Gamma Ray Bursts
+
+[GRB](../blog/posts/grb.md) The most violent events in the Universe.
+
+## Solar Physics
+
+[Solar Physics](../blog/posts/solar.md) Understanding the solar activity and its impact on Cosmic Rays.
+

@@ -9,3 +9,4 @@ The analysis of these events allow many different studies. One can observe the d
 Once the detector is calibrated, one of the most interesting studies that can be done with students is the observation of muon decays. By looking at time difference between pulses, one can search pulses happening in a short time window and look for the characteristic 2.2 microsecond life time of the muon. A simple explanation of this decay can be read here.
 
 Many other experiments are possible, and with 2 or 3 detectors one can also reproduce the original measurements of Pierre Auger in the 30's.
+
