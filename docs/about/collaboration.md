@@ -8,7 +8,7 @@
 
 **Principal Investigator: Luis Núñez**
 
-Collaboration Secretary: C. Sarmiento-Cano
+Collaboration Secretary: TBD
 
 **Country representatives**
 
