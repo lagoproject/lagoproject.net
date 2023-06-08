@@ -1,6 +1,6 @@
 ---
 template: home.html
-title: Material for MkDocs
+title: The Latin American Giant Observatory
 ---
 
-Welcome to Material for MkDocs.
+Welcome to the Latin American Giant Observatory.

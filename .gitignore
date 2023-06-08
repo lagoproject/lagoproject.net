@@ -47,7 +47,7 @@ __pycache__
 # Examples
 example
 example.zip
-site.zip
+site*.zip
 
 # -----------------------------------------------------------------------------
 # General
