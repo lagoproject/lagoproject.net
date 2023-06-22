@@ -48,7 +48,7 @@ What one would expect is that WCD would see an increase in the photon flux when 
 
 [GRB](../blog/posts/grb.md) The most violent events in the Universe.
 
-## Solar Physics
+## Space Weather
 
-[Solar Physics](../blog/posts/solar.md) Understanding the solar activity and its impact on Cosmic Rays.
+[Space Weather](../blog/posts/solar.md) Understanding the solar activity and its impact on Cosmic Rays.
 

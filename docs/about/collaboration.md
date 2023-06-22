@@ -21,7 +21,7 @@ Collaboration Secretary: TBD
 - Guatemala: H.E. Pérez-Figueroa
 - Mexico: H. Salazar
 - Peru: L. Otiniano
-- Spain: R. Mayo-García
+- España: R. Mayo-García
 
 **Tasks Coordinators**
 
@@ -44,7 +44,6 @@ Collaboration Secretary: TBD
 1. Audelo, M <sup>8</sup> [M. Audelo]
 1. Ballina Escobar, Maynor Giovanni <sup>18</sup> [M.G. Ballina-Escobar]
 1. Becerra Villamizar, Daniel Camilo <sup>17</sup> [D. C. Becerra-Villamizar]
-1. Bertou, Xavier <sup>2</sup> [X. Bertou]
 1. Caballero Mora, Karen Salome <sup>15</sup> [K.S. Caballero-Mora]
 1. Caiza, R <sup>7</sup> [R. Caiza]
 1. Calderón-Ardila, Rolando <sup>13</sup> [R. Calderón-Ardila]
@@ -53,7 +52,6 @@ Collaboration Secretary: TBD
 1. Carramiñana Alonso, Alberto <sup>14</sup> [A. Carramiñana-Alonso]
 1. Carrasco, Esperanza <sup>14</sup> [E. Carrasco]
 1. Carrera Jarrín, E <sup>26</sup> [E. Carrera-Jarrín]
-1. Castillo Delacroix, Lucas Ezequiel <sup>10</sup> [L. E. Castillo Delacroix]
 1. Castromonte, César <sup>25</sup> [C. Castromonte]
 1. Cazar, D <sup>26</sup> [D. Cazar]
 1. Christian, Gutierrez <sup>5</sup> [C. Gutierrez]
@@ -61,7 +59,6 @@ Collaboration Secretary: TBD
 1. Coloma Borja, D.A. <sup>26</sup> [D. Coloma-Borja]
 1. Conde Sanchez, Ruben <sup>1</sup> [R. Conde]
 1. Cotzomi Paleta, Jorge <sup>1</sup> [J. Cotzomi]
-1. Dall'ara, Dario <sup>10</sup> [D. Dallara]
 1. Dasso, Sergio <sup>12, 5</sup> [S. Dasso]
 1. de Aguiar, Renan <sup>27</sup> [R. Aguiar]
 1. de Albuquerque Silva, Alex <sup>28</sup> [A. Albuquerque]
@@ -71,7 +68,6 @@ Collaboration Secretary: TBD
 1. Durán, Jesús Andrés <sup>23</sup> [J.A. Durán]
 1. Echiburu, Mauricio <sup>20</sup> [M. Echiburu]
 1. Galindo Tellez, Aline <sup>14</sup> [A. Galindo-Tellez]
-1. González, Manuel <sup>2</sup> [M. González]
 1. Gómez Berisso, Mariano <sup>2</sup> [M. Gómez Berisso]
 1. Grisales Casadiegos, Jenniffer <sup>22</sup> [J. Grisales-Casadiegos]
 1. Gulisano, Adriana María <sup>12, 6, 11</sup> [A. M. Gulisano]
@@ -114,7 +110,6 @@ Collaboration Secretary: TBD
 1. Rubio-Montero, Antonio Juan <sup>3</sup> [A.J. Rubio-Montero]
 1. Sacahuí Reyes, José Rodrigo <sup>18</sup> [J.R. Sacahui]
 1. Salazar Ibarguen, Humberto <sup>1</sup> [H. Salazar]
-1. Salomón, Nicolás <sup>10</sup> [N. Salomón]
 1. Samanés, Jorge <sup>4</sup> [J. Samanes]
 1. Santos, Noelia Ayelén <sup>5</sup> [N.A. Santos]
 1. Sarmiento-Cano, Christian <sup>13</sup> [C. Sarmiento-Cano]

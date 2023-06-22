@@ -1,4 +1,4 @@
-# Solar Physics
+# Space Weather
 
 In their way to the Earth, the cosmic rays produced in the galaxy by many different sources (called Galactic Cosmic Rays, GCR), find themselves deflected by magnetic fields.
 
