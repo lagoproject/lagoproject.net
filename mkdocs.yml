@@ -19,7 +19,7 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: LAGO 
+site_name: The Latin American Giant Observatory 
 site_url: http://lagoproject.net/
 site_author: Martin Donath
 site_description: >-
@@ -80,7 +80,7 @@ theme:
     text: Roboto
     code: Roboto Mono
   favicon: assets/favicon.png
-  logo: assets/logo.png
+  logo: assets/logoLAGO-W.svg
   icon:
     logo: logo
     repo: fontawesome/brands/gitlab
@@ -98,6 +98,8 @@ hooks:
   - material/.overrides/hooks/translations.py
 
 # Customization
+extra_css: 
+    - stylesheets/extra.css
 extra:
   analytics:
     provider: google
