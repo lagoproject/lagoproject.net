@@ -6,9 +6,9 @@
 
 ## Organization 
 
-**Principal Investigator: Luis Núñez**
+**Principal Investigator: Luis A. Núñez**
 
-Collaboration Secretary: TBD
+Collaboration Co-PI: TBD
 
 **Country representatives**
 
