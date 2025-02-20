@@ -147,3 +147,4 @@ requests>=2.26
 pillow 
 cairosvg
 
+mkdocs-simple-cname

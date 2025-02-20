@@ -89,6 +89,8 @@ theme:
 plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - simple-cname:
+      cname: lagoproject.net
   - minify:
       minify_html: true
   - social
