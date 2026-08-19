@@ -1,89 +1,268 @@
-# LAGO Website Source
+<p align="center">
+  <a href="https://squidfunk.github.io/mkdocs-material/#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/logo.svg" width="320" alt="Material for MkDocs">
+  </a>
+  <a href="https://squidfunk.github.io/mkdocs-material/#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/logo-dark.svg" width="320" alt="Material for MkDocs">
+  </a>
+</p>
 
-This repository contains the source code and documentation content for the public website of the **Latin American Giant Observatory (LAGO)**.
+<p align="center">
+  <strong>
+    A 
+    <a href="https://material.io/">Material Design</a> 
+    theme for 
+    <a href="https://www.mkdocs.org/">MkDocs</a>
+  </strong>
+</p>
 
-LAGO is a distributed astroparticle observatory operating at continental scale, with detector sites across Latin America and the Iberian region. The collaboration focuses on three main scientific lines:
+<p align="center">
+  <a href="https://github.com/squidfunk/mkdocs-material/actions"><img
+    src="https://github.com/squidfunk/mkdocs-material/workflows/build/badge.svg?branch=master"
+    alt="Build"
+  /></a>
+  <a href="https://pypistats.org/packages/mkdocs-material"><img
+    src="https://img.shields.io/pypi/dm/mkdocs-material.svg" 
+    alt="Downloads"
+  /></a>
+  <a href="https://gitter.im/squidfunk/mkdocs-material"><img 
+    src="https://badges.gitter.im/squidfunk/mkdocs-material.svg" 
+    alt="Chat on Gitter"
+  /></a>
+  <a href="https://pypi.org/project/mkdocs-material"><img 
+    src="https://img.shields.io/pypi/v/mkdocs-material.svg" 
+    alt="Python Package Index"
+  /></a>
+  <a href="https://hub.docker.com/r/squidfunk/mkdocs-material/"><img 
+    src="https://img.shields.io/docker/pulls/squidfunk/mkdocs-material" 
+    alt="Docker Pulls"
+  /></a>
+</p>
 
-- Extreme Universe studies
-- Space weather phenomena
-- Atmospheric radiation at ground level
+<p align="center">
+  Write your documentation in Markdown and create a professional static site for
+  your Open Source or commercial project in minutes – searchable, customizable,
+  more than 50 languages, for all devices.
+</p>
 
-The website is built with MkDocs and Material for MkDocs, and it publishes collaboration information, research outputs, detector activities, teaching resources, and historical news.
+<p align="center">
+  <a href="https://squidfunk.github.io/mkdocs-material/getting-started/">
+    <img src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/screenshot.png" width="700" />
+  </a>
+</p>
 
-## About the LAGO Collaboration
+<p align="center">
+  <em>
+    Check out the demo – 
+    <a
+      href="https://squidfunk.github.io/mkdocs-material/"
+    >squidfunk.github.io/mkdocs-material</a>.
+  </em>
+</p>
 
-LAGO is a decentralized collaboration of researchers and institutions across multiple countries in Latin America and Spain. Its detector network spans very different geomagnetic and altitude conditions, from sea level to high mountain sites, enabling a broad scientific program in cosmic-ray and astroparticle physics.
+<h2></h2>
+<p>&nbsp;</p>
+<p id="premium-sponsors" align="center"><strong>Special thanks</strong> to our <strong>premium sponsors</strong>:</p>
+<p>&nbsp;</p>
+<p align="center">
+  <a href="https://cirrus-ci.org/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-cirrus-ci.png" height="58"
+  /></a>
+  <a href="https://docs.baslerweb.com/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-basler.png" height="58"
+  /></a>
+  <a href="https://hummingbot.io/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-hummingbot.png" height="58"
+  /></a>
+  <a href="https://kx.com/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-kx.png" height="58"
+  /></a>
+  <a href="https://www.manticoregames.com/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-manticore-games.png" height="58"
+  /></a>
+  <a href="https://orion-docs.prefect.io/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-prefect.png" height="58"
+  /></a>
+  <a href="https://datadoghq.com/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-datadog.png" height="58"
+  /></a>
+  <a href="https://www.zenoss.com/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-zenoss.png" height="58"
+  /></a>
+  <a href="https://www.elli.eco/en/home" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-elli.png" height="58"
+  /></a>
+  <a href="https://solutions.rstudio.com" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-rstudio.png" height="58"
+  /></a>
+  <a href="https://n8n.io" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-n8n.png" height="58"
+  /></a>
+  <a href="https://www.dogado.de" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-dogado.png" height="58"
+  /></a>
+  <a href="https://wwt.com" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-wwt.png" height="58"
+  /></a>
+  <a href="https://coda.io" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-coda.png" height="58"
+  /></a>
+  <a href="https://elastic.co" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-elastic.png" height="58"
+  /></a>
+  <a href="https://consensys.net/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-consensys.png" height="58"
+  /></a>
+  <a href="https://www.hyperledger.org/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-hyperledger.png" height="58"
+  /></a>
+  <a href="https://ipfabric.io/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-ip-fabric.png" height="58"
+  /></a>
+  <a href="https://www.apex.ai/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-apex-ai.png" height="58"
+  /></a>
+  <a href="https://jitterbit.com/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-jitterbit.png" height="58"
+  /></a>
+  <a href="https://sparkfun.com/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-sparkfun.png" height="58"
+  /></a>
+  <a href="https://automationtechnology.de/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-automation-technology.png" height="58"
+  /></a>
+  <a href="https://eccenca.com/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-eccenca.png" height="58"
+  /></a>
+  <a href="https://sealvault.org/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-sealvault.png" height="58"
+  /></a>
+  <a href="https://neptune.ai/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-neptune-ai.png" height="58"
+  /></a>
+  <a href="https://cash.app/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-cashapp.png" height="58"
+  /></a>
+  <a href="https://rackn.com/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-rackn.png" height="58"
+  /></a>
+  <a href="https://civicactions.com/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-civic-actions.png" height="58"
+  /></a>
+</p>
+<p>&nbsp;</p>
 
-In addition to research, LAGO supports education and training through detector-based teaching activities and open, collaborative scientific practices.
+## Everything you would expect
 
-## Project Scope in This Repository
+### It's just Markdown
 
-This repository includes:
+Focus on the content of your documentation and create a professional static site
+in minutes. No need to know HTML, CSS or JavaScript – let Material for MkDocs do
+the heavy lifting for you.
 
-- Website pages and content under `docs/`
-- Site configuration in `mkdocs.yml`
-- Theme customizations, templates, and assets
-- Tooling for front-end/theme build tasks
+### Works on all devices
 
-Main public sections currently published include:
+Serve your documentation with confidence – Material for MkDocs automatically
+adapts to perfectly fit the available screen estate, no matter the type or size
+of the viewing device. Desktop. Tablet. Mobile. All great.
 
-- About (collaboration and sites)
-- Publications (articles, talks, theses, and documents)
-- Activities (detectors, teaching, calendar)
-- News and milestones
-- LAGO-INDICA information
-- Contact
+### Made to measure
 
-## Contributing Content
+Make it yours – change the colors, fonts, language, icons, logo, and more with
+a few lines of configuration. Material for MkDocs can be easily extended and
+provides many options to alter appearance and behavior.
 
-Contributions should preserve scientific accuracy and consistency with the collaboration's public communication.
+### Fast and lightweight
 
-- Edit or add Markdown files in `docs/`
-- Keep links and navigation aligned with `mkdocs.yml`
-- Use clear, concise English for public-facing pages
+Don't let your users wait – get incredible value with a small footprint by using
+one of the fastest themes available with excellent performance, yielding optimal
+search engine rankings and happy users that return.
 
-For contribution workflow and code of conduct, see `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md`.
+### Built for everyone
 
-## Build the Website
+Make accessibility a priority – users can navigate your documentation with touch
+devices, keyboards, and screen readers. Semantic markup ensures that your
+documentation works for everyone.
 
-### 1. Install Python dependencies
+### Open Source
 
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
+Trust 20,000+ users – choose a mature and actively maintained solution built
+with state-of-the-art Open Source technologies. Keep ownership of your content
+without fear of vendor lock-in. Licensed under MIT.
+
+## Quick start
+
+Material for MkDocs can be installed with `pip`:
+
+``` sh
+pip install mkdocs-material
 ```
 
-### 2. Run locally (development)
+Add the following lines to `mkdocs.yml`:
 
-```bash
-mkdocs serve
+``` yaml
+theme:
+  name: material
 ```
 
-The local site is served by default at `http://127.0.0.1:8000`.
+For detailed installation instructions, configuration options, and a demo, visit
+[squidfunk.github.io/mkdocs-material][Material for MkDocs]
 
-### 3. Create a production build
+  [Material for MkDocs]: https://squidfunk.github.io/mkdocs-material/
 
-```bash
-mkdocs build
-```
+## Trusted by ...
 
-The generated static site is written to the `site/` directory.
+### ... industry leaders
 
-### Optional: rebuild theme/assets tooling
+[Atlassian](https://atlassian.github.io/data-center-helm-charts/),
+[AWS](https://aws.github.io/copilot-cli/),
+[Bloomberg](https://bloomberg.github.io/selekt/),
+[CERN](http://abpcomputing.web.cern.ch/),
+[Datadog](https://datadoghq.dev/integrations-core/),
+[Google](https://google.github.io/accompanist/),
+[Hewlett Packard](https://hewlettpackard.github.io/squest/),
+[ING](https://ing-bank.github.io/baker/),
+[Intel](https://open-amt-cloud-toolkit.github.io/docs/),
+[JetBrains](https://jetbrains.github.io/projector-client/mkdocs/),
+[LinkedIn](https://linkedin.github.io/school-of-sre/),
+[Microsoft](https://microsoft.github.io/code-with-engineering-playbook/),
+[Mozilla](https://mozillafoundation.github.io/engineering-handbook/),
+[Netflix](https://netflix.github.io/titus/),
+[Salesforce](https://policy-sentry.readthedocs.io/en/latest/),
+[SoundCloud](https://intervene.dev/),
+[Square](https://square.github.io/okhttp/),
+[Zalando](https://opensource.zalando.com/skipper/)
 
-This repository also contains Node.js tooling inherited from Material for MkDocs customization.
+### ... and successful Open Source projects
 
-```bash
-npm install
-npm run build
-```
+[Arduino](https://arduino.github.io/arduino-cli/),
+[AutoKeras](https://autokeras.com/),
+[BFE](https://www.bfe-networks.net/),
+[CentOS](https://docs.infra.centos.org/),
+[Crystal](https://crystal-lang.org/reference/),
+[Electron](https://www.electron.build/),
+[FastAPI](https://fastapi.tiangolo.com/),
+[GoReleaser](https://goreleaser.com/),
+[Knative](https://knative.dev/docs/),
+[Kubernetes](https://kops.sigs.k8s.io/),
+[kSQL](https://docs.ksqldb.io/),
+[MindsDB](https://docs.mindsdb.com/),
+[Nokogiri](https://nokogiri.org/),
+[OpenFaaS](https://docs.openfaas.com/),
+[Percona](https://docs.percona.com/percona-monitoring-and-management/),
+[Pi-Hole](https://docs.pi-hole.net/),
+[Pydantic](https://pydantic-docs.helpmanual.io/),
+[Renovate](https://docs.renovatebot.com/),
+[Traefik](https://docs.traefik.io/),
+[Vapor](https://docs.vapor.codes/),
+[ZeroNet](https://zeronet.io/docs/),
+[WTF](https://wtfutil.com/)
 
 ## License
 
 **MIT License**
 
-Copyright (c) 2026 LAGO
+Copyright (c) 2016-2023 Martin Donath
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to
