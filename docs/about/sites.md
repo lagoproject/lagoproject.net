@@ -43,8 +43,6 @@ The LAGO project has detectors distributed across Latin America, from Mexico to 
 
     ![LAMP](images/lamp-outside2.png "LAMP Outside")
 
-	Auger is not a LAGO site, but many LAGO scientists also participate in Auger. LAGO was born from Auger, so some data analysis is carried out jointly. Data has been collected since March 2005 and is regularly analyzed.
-
 ??? info "Chacaltaya, Bolivia"
 
 	Mount Chacaltaya, close to La Paz, is the highest-altitude cosmic-ray laboratory, at 5300 m above sea level.
